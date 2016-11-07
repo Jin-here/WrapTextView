@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WrapTextView">
+        <attr name="wrapLeft" format="reference"/>
+        <attr name="wrapRight" format="reference"/>
+        <attr name="wrapTop" format="reference"/>
+        <attr name="wrapBottom" format="reference"/>
+    </declare-styleable>
+</resources>
