@@ -16,6 +16,7 @@ import android.widget.TextView;
  * 使用注意:
  * 1.图片高度需手动设置，宽度随便(wrap_content即可);
  * 2.目前只支持top
+ * 3.缺点，图片点击不会产生变化效果，可以选择另外一种方案{@link com.vgaw.wraptextview.plan2.WrapTextView}
  * 图片高度值 = 组件高度 - 字体高度 - paddingBottom - paddingTop;
  * 图片宽度值 = 组件宽度 - paddingLeft - paddingRight;
  *
